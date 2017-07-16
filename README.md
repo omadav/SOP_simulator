@@ -1,2 +1,2 @@
 # SOP_simulator
-SOP simulator
+Simulator for Wagner's SOP model.
